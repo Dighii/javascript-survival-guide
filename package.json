@@ -16,5 +16,6 @@
     "bower-installer": "^1.2.0",
     "gulp": "^3.9.0",
     "gulp-webserver": "^0.9.1"
-  }
+  },
+  "overrides": { "graceful-fs": "^4.2.10" }
 }
